@@ -5,7 +5,7 @@
 
 ---
 
-# 🚀 Shrey Mittal | AI Engineer & Full-Stack Developer  
+# Shrey Mittal | AI Engineer & Full-Stack Developer  
 
 B.Tech CSE Student  
 Passionate about AI Systems, Machine Learning & Backend Development  
@@ -101,7 +101,7 @@ Designed OCR + NLP pipeline to extract and structure invoice data.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrey2149&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shrey2149&label=Profile+Views&color=5C2F27&style=for-the-badge" />
 </p>
 
 ---
