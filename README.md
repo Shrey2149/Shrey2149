@@ -1,4 +1,9 @@
-## Hi there 👋
+##  Shrey Mittal | AI Engineer & Full-Stack Developer
+
+B.Tech CSE Student
+Passionate about AI Systems, Applied Machine Learning & Scalable Backend Design
+Hackathon Builder | UI/UX Enthusiast | Problem Solver
+
 
 <!--
 **Shrey2149/Shrey2149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
