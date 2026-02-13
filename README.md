@@ -1,4 +1,4 @@
-🚀 Shrey Mittal | AI Engineer & Full-Stack Developer
+##🚀 Shrey Mittal | AI Engineer & Full-Stack Developer
 
 🎓 B.Tech CSE Student
 💡 Passionate about AI Systems, Applied Machine Learning & Scalable Backend Design
