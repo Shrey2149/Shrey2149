@@ -73,7 +73,6 @@ Designed OCR + NLP pipeline to extract and structure invoice data.
 
 ## 🏆 Achievements  
 
-- Hackathon Finalist / Winner  
 - Built production-level AI prototypes  
 - Solved 200+ DSA problems  
 - Completed UI/UX Certification (Meta – Coursera)
