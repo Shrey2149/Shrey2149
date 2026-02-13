@@ -7,19 +7,19 @@
 
 # 🚀 Shrey Mittal | AI Engineer & Full-Stack Developer  
 
-🎓 B.Tech CSE Student  
-🤖 Passionate about AI Systems, Machine Learning & Backend Development  
-🔥 Hackathon Builder | UI/UX Enthusiast | Competitive Programmer  
+B.Tech CSE Student  
+Passionate about AI Systems, Machine Learning & Backend Development  
+Hackathon Builder | UI/UX Enthusiast | Competitive Programmer  
 
 ---
 
 ## ✨ About Me  
 
-- 🧠 Building **AI-powered real-world systems** (RAG, Multi-Agent AI, ECG Quality Detection)  
-- 🤖 Strong foundation in **DSA, ML, and System Design**  
-- 🎨 Experienced in **UI/UX Design (Figma + UX Research)**  
-- ⚙️ Love developing end-to-end systems (ML + Backend + Frontend)  
-- 🏆 Hackathon-focused, impact-driven developer  
+- Building **AI-powered real-world systems** (RAG, Multi-Agent AI, ECG Quality Detection)  
+- Strong foundation in **DSA, ML, and System Design**  
+- Experienced in **UI/UX Design (Figma + UX Research)**  
+- Love developing end-to-end systems (ML + Backend + Frontend)  
+- Hackathon-focused, impact-driven developer  
 
 ---
 
