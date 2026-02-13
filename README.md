@@ -86,14 +86,6 @@ Designed OCR + NLP pipeline to extract and structure invoice data.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrey2149&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey2149&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 Contribution Graph  
 
